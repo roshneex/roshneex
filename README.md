@@ -80,7 +80,7 @@
 
    <br>
             <div align="center">
-                <img src="https://i.gifer.com/HMx0.gif">
+                <img src="https://i.imgur.com/tzYKRfd.gif">
             </div>
             <hr>
         </div>
