@@ -1,18 +1,25 @@
 <body>
     <center>
-        <h1 align="center"> Hi , I am 𝓇𝑜𝓈𝒽𝓃𝑒𝑒𝓍</h1>
+        <h1 align="center"> Hi , I am ROSHNEEX</h1>
         <h3 align="center">𝚌𝚘𝚗𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎 | 𝚍𝚒𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎</h3>
         <br>
         <div align="center">
+            <!-- <a href="https://discord.com/users/202740603790819328" > -->
+            <!-- <a href="https://thicc-thighs.de/" > -->
+            <!-- <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  /> -->
             <br>
-            <p>𝒿𝓊𝓈𝓉 𝓉𝑜 𝓁𝑒𝓉 𝓎𝑜𝓊 𝓀𝓃𝑜𝓌 𝓉𝒽𝒶𝓉 </p>
-            <p>𝓉𝒽𝑒 𝓌𝑜𝓇𝓁𝒹 𝒾𝓈 𝒶 𝓈𝒶𝓃𝒹𝒷𝑜𝓍</p>
-            <p>𝓈𝒶𝓃𝒹𝒷𝑜𝓍 𝓂𝑜𝒹𝑒 𝒾𝓃 𝓉𝒽𝑒 𝑔𝒶𝓂𝑒 𝑜𝒻 𝓁𝒾𝒻𝑒</p>
+            <p>just to let you know that </p>
+            <p>the world is a sandbox</p>
+            <p>sandbox mode in the game of life</p>
             <p> 𝒸𝓇𝑒𝒶𝓉𝑒 , 𝑒𝓍𝓅𝓁𝑜𝓇𝑒 , 𝓁𝑒𝒶𝓇𝓃 , 𝓈𝓊𝓇𝓋𝒾𝓋𝑒</p>
-            <p><a href="https://youtu.be/PXGycbkbtW0"> 𝓈𝑜𝓂𝑒 𝓈𝑜𝓃𝑔𝓈 𝒶𝓇𝑒 𝑒𝓍𝓉𝓇𝑒𝓂𝑒𝓁𝓎 𝓋𝒾𝓉𝒶𝓁</a><p>
+            <p><a href="https://youtu.be/PXGycbkbtW0">i keep humming this</a><p>
 </div>
+
+  <div align="center">
+<img src="https://i.gifer.com/HMx0.gif" align="center">
+  </div>
        <div>
-            <h2 align="center">     𝓉𝑜𝑜𝓁𝓈 𝒶𝓃𝒹 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈</h2>
+            <h2 align="center">   TOOLS & LANGUAGES</h2>
             <br>
             <p align="center"><img
                     src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,8 +46,12 @@
                     alt=""><img src="" alt=""><img src="" alt="">
             </p>
             <br> </div>
+
+  <div align="center">
+                <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+                  </div>
 <div>
-            <h2 align="center"> 𝒾 𝓁𝑜𝓋𝑒 𝓈𝓅𝑒𝓃𝒹𝒾𝓃𝑔 𝓉𝒾𝓂𝑒 𝒽𝑒𝓇𝑒</h2>
+            <h2 align="center">I LOVE SPENDING TIME HERE</h2>
             <div align="center"> <img
                     src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"
                     alt=""> <img
@@ -50,20 +61,26 @@
                     alt="">
                     </div>
 
+ <h2 align="center">Why can't I play guitar along with coding?</h2>
+
+
  <div><h2 align="center"> SOCIALS </h2>
             <!-- <div align="center"> -->
-            <div align="center"><a href="https://twitter.com/prollyroshneex" target="_blank"><img
+            <div><a href="https://twitter.com/prollyroshneex" target="_blank"><img
                         src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
                 <a href="https://www.instagram.com/roshneex/" target="_blank"><img
                         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
             </p></div>
 
+  <div><h2>TO-DOs</h2>
+                <h3>overbrim my tech stack</h3>
+                <h3>watch anime without subtitles</h3>
+                <h3>i wanna code some music</h3>
+            </div>
 
    <br>
-        <div>
-            <h2 align="center">𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰</h2>
             <div align="center">
-                <!-- <img src="https://i.imgur.com/tzYKRfd.gif"> -->
+                <img src="https://i.gifer.com/HMx0.gif">
             </div>
             <hr>
         </div>
