@@ -1,7 +1,7 @@
 <body>
     <center>
         <h1 align="center"> Hi , I am ROSHNEEX</h1>
-        <h3 align="center">𝚌𝚘𝚗𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎 | 𝚍𝚒𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎</h3>
+        <p align="center">𝚌𝚘𝚗𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎 | 𝚍𝚒𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎</p>
         <br>
         <div align="center">
             <!-- <a href="https://discord.com/users/202740603790819328" > -->
@@ -73,9 +73,9 @@
             </p></div>
 
   <div><h2>TO-DOs</h2>
-                <h3>overbrim my tech stack</h3>
-                <h3>watch anime without subtitles</h3>
-                <h3>i wanna code some music</h3>
+                <p>overbrim my tech stack</p>
+                <p>watch anime without subtitles</p>
+                <p>i wanna code some music</p>
             </div>
 
    <br>
