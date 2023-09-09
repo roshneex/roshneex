@@ -1,17 +1,17 @@
 <body>
     <center>
         <h1 align="center"> Hi , I am ROSHNEEX</h1>
-        <p align="center">𝚌𝚘𝚗𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎 | 𝚍𝚒𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎</p>
+        <h3 align="center">𝚌𝚘𝚗𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎 | 𝚍𝚒𝚟𝚎𝚛𝚐𝚎𝚗𝚌𝚎</h3>
         <br>
         <div align="center">
             <!-- <a href="https://discord.com/users/202740603790819328" > -->
             <!-- <a href="https://thicc-thighs.de/" > -->
             <!-- <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  /> -->
             <br>
-            <p>just to let you know that </p>
+            <!-- <p>just to let you know that </p>
             <p>the world is a sandbox</p>
             <p>sandbox mode in the game of life</p>
-            <p> 𝒸𝓇𝑒𝒶𝓉𝑒 , 𝑒𝓍𝓅𝓁𝑜𝓇𝑒 , 𝓁𝑒𝒶𝓇𝓃 , 𝓈𝓊𝓇𝓋𝒾𝓋𝑒</p>
+            <p> 𝒸𝓇𝑒𝒶𝓉𝑒 , 𝑒𝓍𝓅𝓁𝑜𝓇𝑒 , 𝓁𝑒𝒶𝓇𝓃 , 𝓈𝓊𝓇𝓋𝒾𝓋𝑒</p> -->
             <p><a href="https://youtu.be/PXGycbkbtW0">i keep humming this</a><p>
 </div>
 
@@ -48,7 +48,7 @@
             <br> </div>
 
   <div align="center">
-<!--                 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
+                <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
                   </div>
 <div>
             <h2 align="center">OTHERS</h2>
@@ -72,11 +72,11 @@
                         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
             </p></div>
 
-  <div><h2>TO-DOs</h2>
-                <p>overbrim my tech stack</p>
-                <p>watch anime without subtitles</p>
-                <p>i wanna code some music</p>
-            </div>
+  <!-- <div><h2>TO-DOs</h2>
+                <h3>overbrim my tech stack</h3>
+                <h3>watch anime without subtitles</h3>
+                <h3>i wanna code some music</h3>
+            </div> -->
 
    <br>
             <div align="center">
