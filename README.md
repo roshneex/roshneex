@@ -58,7 +58,7 @@
                     alt=""> <img
                     src="https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white"
                     alt="">
-                    </div> </div>div>
+                    </div> </div></div>
 
  <h2 align="center">Tuned Strings & Noisy Codes fetish</h2>
 
