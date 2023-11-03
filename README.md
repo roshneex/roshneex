@@ -61,7 +61,7 @@
                     alt="">
                     </div>
 
- <h2 align="center">Tuned Strings & Noisy Codes are my fav sounds</h2>
+ <h2 align="center">Tuned Strings & Noisy Codes fetish</h2>
 
 
  <div><h2 align="center"> SOCIALS </h2>
