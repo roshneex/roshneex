@@ -61,7 +61,7 @@
                     alt="">
                     </div>
 
- <h2 align="center">Why can't I play guitar along with coding?</h2>
+ <h2 align="center">Tuned Strings & Noisy Codes >></h2>
 
 
  <div><h2 align="center"> SOCIALS </h2>
