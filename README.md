@@ -64,7 +64,7 @@
  <h2 align="center">Tuned Strings & Noisy Codes fetish</h2>
 
 
- <div><h2 align="center"> SOCIALS </h2>
+ <div>
             <!-- <div align="center"> -->
             <div><a href="https://twitter.com/prollyroshneex" target="_blank"><img
                         src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
