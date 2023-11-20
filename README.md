@@ -60,7 +60,7 @@
                     alt="">
                     </div> </div></div>
  -->
- <h2 align="center">Tuned Strings & Noisy Codes fetish</h2>
+ <div> <h2 align="center">Tuned Strings & Noisy Codes fetish</h2> </div>
 
 
  <div>
